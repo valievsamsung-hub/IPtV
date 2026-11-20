@@ -1,0 +1,46 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#PLAYLIST:Match! Premer
+#EXTINF:-1 tvg-id="match-premier" group-title="МАТЧ ПРЕМЬЕР⚾",МАТЧ! ПРЕМЬЕР
+http://89.218.32.179:18000/play/a01o
+#EXTINF:-1 tvg-id="match-premier" group-title="МАТЧ ПРЕМЬЕР⚾,МАТЧ! ПРЕМЬЕР
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8?token=test
+#EXTINF:-1 tvg-id="match-premier" group-title="МАТЧ ПРЕМЬЕР⚾",МАТЧ! ПРЕМЬЕР
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 tvg-id="match-premier" group-title="МАТЧ ПРЕМЬЕР⚾",Матч! Премьер HD
+http://92.63.106.41/24hp/stream.php?id=250
+#EXTINF:-1 tvg-id="match-premier" group-title="МАТЧ ПРЕМЬЕР⚾",Матч! Премьер HD
+https://kino.zunotv.workers.dev/match_premier_hd/index.m3u8
+#EXTINF:-1 tvg-id="match-premier" tvg-rec="1" catchup_days="7" group-title="МАТЧ ПРЕМЬЕР⚾",Матч! Премьер
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/531/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="МАТЧ ПРЕМЬЕР⚾",Матч! Премьер FHD
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2414/index.m3u8
+#EXTINF:-1 tvg-id="match-premier" tvg-rec="1" catchup_days="7" group-title="МАТЧ ПРЕМЬЕР⚾"",Матч! Премьер
+http://ott.watch/stream/M2OKG1JWDY/193.m3u8
+#EXTINF:-1 group-title="МАТЧ ПРЕМЬЕР⚾",Матч! Премьер
+http://217.174.229.136:8000/play/a00o
+#EXTINF:-1  group-title="МАТЧ ПРЕМЬЕР⚾"  tvg-id="52"  tvg-logo="http://epg.cdntv.online/img/52.png"   catchup="shift" catchup-days="3" timeshift="3", Матч! Премьер
+http://ottlinks.club/hls/7jic59vkp2tz/52.m3u8
+#EXTINF:-1  group-title="МАТЧ ПРЕМЬЕР⚾"  tvg-id="53"  tvg-logo="http://epg.cdntv.online/img/53.png"   catchup="shift" catchup-days="3" timeshift="3", Матч! Премьер HD
+http://ottlinks.club/hls/7jic59vkp2tz/53.m3u8
+#EXTINF:-1  tvg-id="match-premier" ,МАТЧ! Премьер
+#EXTGRP:Спорт ⚽️
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1  tvg-id="match-premier" , Матч! Премьер
+#EXTGRP:Спорт Тест 🏃🏼‍♂️
+http://89.218.32.179:18000/play/a01o
+#EXTINF:-1  tvg-id="match-premier" , Матч! Премьер HD
+#EXTGRP:Спорт Тест 🏃🏼‍♂️
+http://188.134.7.215:4022/udp/235.10.10.182:1234
+#EXTINF:-1  group-title="Спорт ⚽️"  tvg-id="52"  tvg-logo="http://epg.cdntv.online/img/52.png"   catchup="shift" catchup-days="3" timeshift="3", Матч! Премьер
+http://ottlinks.club/hls/7jic59vkp2tz/52.m3u8
+#EXTINF:-1  group-title="Спорт ⚽️"  tvg-id="53"  tvg-logo="http://epg.cdntv.online/img/53.png"   catchup="shift" catchup-days="3" timeshift="3", Матч! Премьер HD
+http://ottlinks.club/hls/7jic59vkp2tz/53.m3u8
+#EXTINF:-1  tvg-id="match-premier" ,МАТЧ! Премьер
+#EXTGRP:Спорт ⚽️
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:HD Orig
+http://hs5mhgrr.tvclub.xyz/iptv/Q7W8WP2S6GY4G8/2414/index.m3u8
+
+
+
